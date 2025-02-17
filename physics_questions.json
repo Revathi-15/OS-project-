@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Who proposed the theory of relativity?",
+        "answer": "Albert Einstein",
+        "difficulty": 0,
+        "score": 30
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "answer": "299792458 meters per second",
+        "difficulty": 1,
+        "score": 45
+    },
+    {
+        "question": "What is the fundamental unit of electric current?",
+        "answer": "Ampere",
+        "difficulty": 0,
+        "score": 30
+    },
+    {
+        "question": "Which particle has a negative charge and orbits the nucleus of an atom?",
+        "answer": "Electron",
+        "difficulty": 0,
+        "score": 25
+    },
+    {
+        "question": "What is the phenomenon where light bends around an obstacle?",
+        "answer": "Diffraction",
+        "difficulty": 1,
+        "score": 40
+    },
+    {
+        "question": "Explain Newton's first law of motion.",
+        "answer": "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force",
+        "difficulty": 2,
+        "score": 60
+    },
+    {
+        "question": "What is the SI unit of work?",
+        "answer": "Joule",
+        "difficulty": 1,
+        "score": 35
+    },
+    {
+        "question": "What is Planck's constant?",
+        "answer": "6.62607015 × 10^-34 J⋅s",
+        "difficulty": 2,
+        "score": 50
+    },
+    {
+        "question": "What is the process by which a solid changes directly to a gas without passing through the liquid state?",
+        "answer": "Sublimation",
+        "difficulty": 1,
+        "score": 40
+    },
+    {
+        "question": "Name the scientist who discovered radioactivity.",
+        "answer": "Henri Becquerel",
+        "difficulty": 1,
+        "score": 35
+    },
+    {
+        "question": "What is the principle behind a transformer?",
+        "answer": "Electromagnetic induction",
+        "difficulty": 2,
+        "score": 45
+    },
+    {
+        "question": "What is the gravitational acceleration on Earth's surface?",
+        "answer": "9.8 m/s^2",
+        "difficulty": 0,
+        "score": 25
+    },
+    {
+        "question": "Describe the Doppler effect.",
+        "answer": "The change in frequency of a wave for an observer moving relative to its source",
+        "difficulty": 2,
+        "score": 55
+    },
+    {
+        "question": "What is absolute zero?",
+        "answer": "The lowest possible temperature where molecular motion stops",
+        "difficulty": 1,
+        "score": 40
+    },
+    {
+        "question": "What is the difference between scalar and vector quantities?",
+        "answer": "Scalar quantities have magnitude only, while vector quantities have both magnitude and direction",
+        "difficulty": 1,
+        "score": 45
+    }
+]
