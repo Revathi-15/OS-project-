@@ -1,7 +1,8 @@
 # Steps to Execute the TCP-Based Real-Time Quiz Game
-
-## Repository
-The project repository is available at: [Real-Time Quiz Game Repository](https://github.com/RahulVerma1441/SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game)
+## Repository  
+The project repository is available at:  
+- [Revathi's OS Project Repository](https://github.com/Revathi-15/OS-project)  
+- [Real-Time Quiz Game Repository Group 8](https://github.com/RahulVerma1441/SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game)
 
 ---
 
@@ -23,7 +24,7 @@ The project repository is available at: [Real-Time Quiz Game Repository](https:/
 ### 1. Clone or Download the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/RahulVerma1441/SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game
+git clone https://github.com/Revathi-15/OS-project-
 ```
 Or download the repository as a ZIP file and extract it.
 
@@ -32,7 +33,7 @@ Or download the repository as a ZIP file and extract it.
 ### 2. Navigate to the Project Directory
 Open a terminal and move to the project folder:
 ```bash
-cd SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game
+cd OS-project-
 ```
 ![sample](img/image-1.png)
 
@@ -99,7 +100,7 @@ You can start multiple clients to simulate a multiplayer environment.
 - Make sure to test the program on the same network to avoid firewall or NAT traversal issues.
 - The server should always be started before the clients.
 
-For more details, refer to the [README](https://github.com/RahulVerma1441/SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game/blob/main/README.md) in the repository.
+For more details, refer to the [README](https://github.com/Revathi-15/OS-project-/blob/main/README.md) in the repository.
 
 ---
 
