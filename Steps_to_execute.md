@@ -1,7 +1,7 @@
 # Steps to Execute the TCP-Based Real-Time Quiz Game
 ## Repository  
 The project repository is available at:  
-- [Revathi's OS Project Repository](https://github.com/Revathi-15/OS-project)  
+- [Revathi's OS Project Repository](https://github.com/Revathi-15/OS-project-)  
 - [Real-Time Quiz Game Repository Group 8](https://github.com/RahulVerma1441/SectionX_OS_LAB_2024_GROUP-No.8_Real-Time-Quiz-Game)
 
 ---
